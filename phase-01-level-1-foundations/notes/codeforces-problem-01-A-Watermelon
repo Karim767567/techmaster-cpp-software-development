@@ -13,7 +13,7 @@ Given a weight w, check if it can be split into two positive even integers.
 */
 
 // My first attempt (wrong):
-// I first understood it as: “Can it be split into two equal halves?”, so I only checked whether `w` is even:
+// I first understood it as: “Can it be split into two equal halves?”, so I only checked whether w is even:
 
 #include <iostream>
 using namespace std;
